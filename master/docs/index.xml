@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on sertoi</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on sertoi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sonoff POW</title>
+      <link>/docs/sonoff_pow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/sonoff_pow/</guid>
+      <description>Preparing hardware  We need to access VCC RT TX and GND pins, to facilitate it we weld pins to the sonoff pcb To connect the sonoff to the PC we&amp;rsquo;re using a USB UART TTL 3.3V Converter/Programmer (e.g. CP2102, CH340G, FT232, PL2303) The schema of the connections is:      Programmer Sonoff     3.3/VCC 3.3/VCC   TX RX   RX TX   GND GND    WARNING!</description>
+    </item>
+    
+  </channel>
+</rss>
